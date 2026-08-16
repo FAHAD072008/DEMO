@@ -1,2 +1,2 @@
-# DEMO
+# First Repository
 This is my first Github repository.
